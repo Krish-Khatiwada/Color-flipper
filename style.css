@@ -1,0 +1,25 @@
+#red {
+    background-color: red;
+}
+#blue {
+    background-color: skyblue;
+}
+#green {
+    background-color: green;
+}
+#purple {
+    background-color: purple;
+}
+#random {
+    background-color: #ffffff;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    margin: 0px 20px 0px 20px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    border-color: none;
+    cursor: pointer;
+}
